@@ -100,7 +100,6 @@ A computer vision-based tool for analyzing Valorant gameplay videos, focusing on
 ## 📋 Requirements
 
 - Python 3.8+
-- Node.js 18+
 - FFmpeg
 - CUDA-capable GPU (recommended for faster processing)
 - YOLO model files for:
